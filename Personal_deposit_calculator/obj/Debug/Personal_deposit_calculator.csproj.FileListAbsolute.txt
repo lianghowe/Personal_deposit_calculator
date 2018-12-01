@@ -1,0 +1,10 @@
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\bin\Debug\Personal_deposit_calculator.exe.config
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\bin\Debug\Personal_deposit_calculator.exe
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\bin\Debug\Personal_deposit_calculator.pdb
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.csprojAssemblyReference.cache
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.Form1.resources
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.Properties.Resources.resources
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.csproj.GenerateResource.cache
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.csproj.CoreCompileInputs.cache
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.exe
+D:\l\source\repos\Personal_deposit_calculator\Personal_deposit_calculator\obj\Debug\Personal_deposit_calculator.pdb
